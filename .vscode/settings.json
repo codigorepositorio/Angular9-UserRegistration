@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f29f6b74-9945-4aa3-a51e-6868767ca60d/resourceGroups/FrontEndAngular/providers/Microsoft.Web/sites/websiteLibrary",
+    "appService.deploySubpath": "dist\\UserRegistrations"
+}
